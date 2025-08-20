@@ -1,2 +1,2 @@
 const yskim = "윤성"
-const kyj = "용재"
+const trabblemaker = "용재"
